@@ -1,0 +1,28 @@
+# Autotools
+/INSTALL
+Makefile.in
+Makefile
+/aclocal.m4
+/ar-lib
+/autom4te.cache
+/compile
+/config.guess
+/config.sub
+/config.h.in
+/config.h
+/config.status
+/configure
+/depcomp
+/install-sh
+/libtool
+/ltmain.sh
+/m4/libtool.m4
+/m4/lt*.m4
+/missing
+/stamp-*
+/test-driver
+.deps
+*.log
+*~
+# Distributions
+*.tar.*

@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ([2.69])
-AC_INIT([shared_meataxe], [1.0], [simon.king@uni-jena.de])
+AC_INIT([shared_meataxe], [1.0.1], [simon.king@uni-jena.de])
 AM_INIT_AUTOMAKE([check-news dist-bzip2 -Wall])
 AM_PROG_AR
 LT_INIT([disable-static])

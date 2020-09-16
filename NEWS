@@ -1,3 +1,5 @@
+Version 1.0.1: Fix shared library build on Cygwin
+
 Version 1.0: Autotools support, shared library, parallel tests, fixed
 	documentation, asymptotically fast matrix multiplication. Based on
 	MeatAxe-2.4.24

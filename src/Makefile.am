@@ -46,6 +46,8 @@ libmtx_la_SOURCES           = meataxe.h args.c berlekmp.c \
 	zcleanrow.c zcmprow.c zgap.c zpermrow.c \
 	zzz2.c
 
+# Enable shared library build on Cygwin
+AM_LDFLAGS = -no-undefined
 
 # -----> Headers
 include_HEADERS          = meataxe.h
